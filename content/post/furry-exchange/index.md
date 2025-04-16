@@ -2,8 +2,7 @@
 title: Furry Exchange
 description: Feral Company's furry-centric marketplace for artists and dealers alike.
 slug: furry-exchange
-date: 2024-04-16 00:00:00+0000
-image: cover.jpg
+image: fx_header.jpg
 #categories:
 #    - Platfomrs
 #tags:

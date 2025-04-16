@@ -3,7 +3,7 @@ title: Feral Threads Co.
 description: A SoCal based furry clothing company.
 slug: feral-threads-co
 date: 2024-04-16 00:00:00+0000
-image: fx_header.jpg
+image: cover.jpg
 #categories:
 #    - Platfomrs
 #tags:
