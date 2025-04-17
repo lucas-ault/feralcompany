@@ -7,7 +7,7 @@ image: fx_header.png
 #    - Platfomrs
 #tags:
 #    - Example Tag
-#weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+#weight: 5       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 # Furry Exchange, a marketplace created by furries, for furries!
