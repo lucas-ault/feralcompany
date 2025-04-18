@@ -11,4 +11,6 @@ image: cameradog_cover.png
 #weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-This is some sample text because IDK where it'll go!
+I really should add more info here...
+
+Anyways, see my work and booking details [here!](https://www.camera.dog)
